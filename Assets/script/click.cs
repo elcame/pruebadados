@@ -43,4 +43,9 @@ public class click : MonoBehaviour
         C = false;
     }
 
+    public void cargarjuego(){
+        //lo que va a dentro es el nombre de la escena a cargar
+        SceneManager.LoadScene("dado");
+    }
+
 }

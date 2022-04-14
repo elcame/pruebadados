@@ -338,7 +338,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66fbffff
+      m_ExpandedIDs: 52f4ffff36f9ffff74f9ffffa0f9ffff6cfaffff66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -395,7 +395,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 185
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -439,22 +439,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Dice/Plugins
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Dice/Plugins
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\unity\Unity Hub\dados
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64430000
-    m_LastClickedID: 17252
-    m_ExpandedIDs: 000000004e4300005043000052430000544300005643000000ca9a3b
+    m_SelectedIDs: 70430000
+    m_LastClickedID: 17264
+    m_ExpandedIDs: 000000004e43000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -470,7 +470,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 8}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -509,8 +509,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: fe430000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: fe43000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -526,7 +526,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -718,9 +718,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.025212396, y: 0.013185888, z: -0.00032298436, w: -0.9995951}
   m_Size:
-    m_Target: 5.938516
+    m_Target: 63.454857
     speed: 2
-    m_Value: 6.2183414
+    m_Value: 63.454857
   m_Ortho:
     m_Target: 1
     speed: 2
